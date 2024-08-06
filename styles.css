@@ -2,7 +2,9 @@ body {
 color: white;
 background: black;
 margin: 0px;
+font-family: "Chakra Petch", sans-serif;
 }
+
 
 header{
 border-bottom: solid 2px rgb(195 21 21);
@@ -10,7 +12,7 @@ padding: 20px;
 font-size: 20px;
 color: rgb(195 21 21);
 }
-
+ 
 section{
 background: rgb(194 7 14);
 padding-bottom: 50px;
@@ -20,7 +22,18 @@ justify-content: center;
 }
 
 .chamada-texto{
-margin-right: 20px;
+margin-right: 10%;
 
+
+}
+
+h1{
+font-size: 28px; 
+
+
+}
+
+p{
+font-size: 15px
 
 }
