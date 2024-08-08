@@ -24,21 +24,28 @@ justify-content: center;
 .chamada-texto{
 margin-right: 10%;
 
-
 }
 
 h1{
 font-size: 28px; 
-
-
+padding: 20px;
 }
 
 p{
-font-size: 15px
+font-size: 15px;
+padding: 20px;
+
 
 }
 
 img{
 
-    height: 100px;
+    height: 200px;
 }
+
+.categoria-videos{
+display: flex;
+overflow-x: auto;
+gap: 10px;
+}
+
