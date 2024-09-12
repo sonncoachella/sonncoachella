@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Vitor Cruz
 
-Studying in [ALura](https://www.alura.com.br/)
+Studying in [Alura](https://www.alura.com.br/)
 
 I'm developing in the Javascript language
 
